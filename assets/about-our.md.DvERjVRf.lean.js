@@ -1,0 +1,1 @@
+import{_ as t,c as s,o as e,ae as i}from"./chunks/framework.tuuL-SzM.js";const u=JSON.parse('{"title":"漯食校园万能墙","description":"","frontmatter":{},"headers":[],"relativePath":"about-our.md","filePath":"about-our.md"}'),r={name:"about-our.md"};function n(l,a,o,h,d,p){return e(),s("div",null,a[0]||(a[0]=[i("",16)]))}const g=t(r,[["render",n]]);export{u as __pageData,g as default};
