@@ -1,1 +1,0 @@
-import{_ as a,c as t,o as c,ae as o}from"./chunks/framework.tuuL-SzM.js";const m=JSON.parse('{"title":"微信公众号","description":"","frontmatter":{},"headers":[],"relativePath":"wechat.md","filePath":"wechat.md"}'),r={name:"wechat.md"};function s(l,e,i,p,n,d){return c(),t("div",null,e[0]||(e[0]=[o("",11)]))}const _=a(r,[["render",s]]);export{m as __pageData,_ as default};
